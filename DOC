@@ -1,0 +1,495 @@
+<div data-template-type="html" class="ui-sortable">
+    <center>
+        <table data-group="Top Bars" data-module="Top Bar 1" data-thumbnail="thubnails/topBar-1.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+            <tbody>
+                <tr>
+                    <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                        <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                            <tbody>
+                                <tr>
+                                    <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                                        <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                            <tbody>
+                                                <tr>
+                                                    <td align="center" class="container-padding">
+                                                        <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td data-resizable-height="" style="font-size:10px;height:10px;line-height:10px;" class="spacer-first ui-resizable">&nbsp;
+                                                                        <div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td data-text="Pre header Link" data-font="Primary" align="right" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;font-size:12px;line-height:22px;font-weight:400;font-style:normal;color:#939393;text-decoration:none;letter-spacing:0;" contenteditable="false" data-gramm="false">
+                                                                    <a href="http://example.com" style="text-decoration:none!important;border:0;color:#939393;">CSWP</a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td data-resizable-height="" style="font-size:10px;height:10px;line-height:10px;" class="ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table data-group="Navigations" data-module="Navigation 4" data-thumbnail="thubnails/navigation-4.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;" class="selected-table">
+        <tbody>
+            <tr>
+                <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                    <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                        <tbody>
+                            <tr>
+                                <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                    <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                        <tbody>
+                                            <tr>
+                                                <td align="center" class="container-padding">
+                                                    <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                        <tbody><tr><td data-resizable-height="" style="font-size:60px;height:60px;line-height:60px;" class="spacer-first ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="middle" class="center-text">
+                                                            <a href="http://example.com" style="text-decoration:none;border:0px;"><img data-image="Logo Img" src="cwspwhite.png" width="120" border="0" alt="logo" style="width:120px;border:0px;display:inline-block!important;" data-lm-image="true">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;" class="ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+<table data-group="Contents" data-module="Content 1" data-thumbnail="thubnails/content-1.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+        <tr>
+            <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                    <tbody>
+                        <tr>
+                            <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" class="container-padding">
+                                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;" class="spacer-first ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-text="Title" data-font="Primary" align="left" valign="middle" class="br-mobile-none center-text" style="font-family:'Poppins', sans-serif;color:#191919;font-size:42px;line-height:52px;font-weight:600;letter-spacing:0px;padding:0;padding-bottom:10px;" contenteditable="false" data-gramm="false">congratulation's<br> you've Secured spot on CWSP cohort</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-text="Description" data-font="Primary" align="left" valign="middle" class="br-mobile-none center-text" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:26px;font-weight:400;letter-spacing:0px;" contenteditable="false" data-gramm="false">Let's make a change in <br>Telugu Coding Community.</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;" class="ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table data-group="Banners" data-module="Banner 7" data-thumbnail="thubnails/banner-7.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+        <tr>
+            <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                    <tbody>
+                        <tr>
+                            <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" class="container-padding">
+                                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;" class="spacer-first ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle" class="img-responsive"><a href="http://example.com" style="text-decoration:none;border:0;"><img data-image="Banner Image" src="https://editor.maool.com/images/event/banner@bg-6.png" alt="Single Image" width="600" border="0" style="display:inline-block !important;border:0;width:600px;max-width:600px;"></a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;" class="ui-resizable">&nbsp;<div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table data-group="Titles" data-module="Title 4" data-thumbnail="thubnails/title-4.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+        <tr>
+            <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                    <tbody>
+                        <tr>
+                            <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" class="container-padding">
+                                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-text="Section Title" data-font="Primary" align="left" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#191919;font-size:30px;line-height:40px;font-weight:600;letter-spacing:0px;" contenteditable="false" data-gramm="false">Your Ticket</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:20px;height:20px;line-height:20px;">&nbsp;</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table data-group="Other Modules" data-module="Other Module 6" data-thumbnail="thubnails/othModule-6.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+        <tr>
+            <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                    <tbody>
+                        <tr>
+                            <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" class="container-padding">
+                                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:20px;height:20px;line-height:20px;">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-bgcolor="Table Bgcolor" data-shape-border="Table Border" align="center" valign="middle" class="container-padding" style="background-color:#FFFFFF;border:1px solid #F1F1F1;border-radius:4px;display:block;">
+                                                                <table width="460" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:460px; max-width:460px;">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td data-text="Title" data-font="Primary" align="center" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#191919;font-size:26px;line-height:36px;font-weight:600;letter-spacing:0px;padding:0px;padding-bottom:20px;" contenteditable="false" data-gramm="false">ID-25CWSP0001</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td align="center" valign="middle" class="img-responsive" style="padding:0px;padding-bottom:10px;"><a href="http://example.com" style="text-decoration:none;border:0;"><img data-image="Image Qrcode" src="CSWP.png" alt="Image Qrcode" width="200" border="0" style="display:inline-block !important;border:0;width:200px;max-width:200px;"></a>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td data-text="Code ID" data-font="Primary" align="center" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:26px;font-weight:400;letter-spacing:0px;" contenteditable="false" data-gramm="false">CSWP2025</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:20px;height:20px;line-height:20px;">&nbsp;</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+<table data-group="Other Module" data-module="Other Module 5" data-thumbnail="thubnails/othModule-5.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+        <tr>
+            <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                    <tbody>
+                        <tr>
+                            <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" class="container-padding">
+                                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:20px;height:20px;line-height:20px;">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle">
+                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="center-float">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td align="center" valign="middle" style="padding:0;padding-bottom:10px;padding-right:10px;">
+                                                                            </td>
+                                                                            <td data-text="Address" data-font="Primary" align="left" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:24px;font-weight:500;letter-spacing:0px;padding:0;padding-bottom:10px;" contenteditable="false" data-gramm="false"><b>Meeting Details</b></Details></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle">
+                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="center-float">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td align="center" valign="middle" style="padding:0;padding-bottom:10px;padding-right:10px;">
+                                                                                <a href="http://example.com" style="text-decoration:none;border:0px;"><img data-image="Icon 1" src="https://editor.maool.com/images/event/icon@img-3.png" alt="Icon" width="24" border="0" style="width:24px;border:0px;display:inline-block !important;">
+                                                                                </a>
+                                                                            </td>
+                                                                            <td data-text="Date &amp; Time" data-font="Primary" align="left" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:24px;font-weight:500;letter-spacing:0px;padding:0;padding-bottom:10px;" contenteditable="false" data-gramm="false">Sunday, June 12 10:00am</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle">
+                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="center-float">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td align="center" valign="middle" style="padding:0;padding-bottom:10px;padding-right:10px;">
+                                                                                <a href="http://example.com" style="text-decoration:none;border:0px;"><img data-image="Icon 2" src="https://editor.maool.com/images/event/icon@img-4.png" alt="Icon" width="24" border="0" style="width:24px;border:0px;display:inline-block !important;">
+                                                                                </a>
+                                                                            </td>
+                                                                            <td data-text="Address" data-font="Primary" align="left" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:24px;font-weight:500;letter-spacing:0px;padding:0;padding-bottom:10px;" contenteditable="false" data-gramm="false">Remote</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle"><table align="left" border="0" cellpadding="0" cellspacing="0" class="center-float">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" valign="middle" style="padding:0;padding-right:10px;">
+                                                                            <a href="http://example.com" style="text-decoration:none;border:0px;"><img data-image="Icon 3" src="https://editor.maool.com/images/event/icon@img-2.png" alt="Icon" width="24" border="0" style="width:24px;border:0px;display:inline-block !important;">
+                                                            </a>
+                                                        </td>
+                                                        <td data-text="Name" data-font="Primary" align="left" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:24px;font-weight:500;letter-spacing:0px;" contenteditable="false" data-gramm="false">B.Jyothi Swaroop</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table data-group="Contents" data-module="Content 6" data-thumbnail="#cwspcohortlogo" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+        <tr>
+            <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+                <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                    <tbody>
+                        <tr>
+                            <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                                <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" class="container-padding">
+                                                <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-bgcolor="Table Bgcolor" data-shape-border="Table Border" align="center" valign="middle" class="container-padding" style="background-color:#FFFFFF;border:1px solid #F1F1F1;border-radius:4px;display:block;">
+                                                                <table width="460" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:460px; max-width:460px;">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td data-text="Title" data-font="Primary" align="left" valign="middle" class="center-text" style="font-family:'Poppins', sans-serif;color:#191919;font-size:26px;line-height:36px;font-weight:600;letter-spacing:0px;padding:0px;padding-bottom:10px;" contenteditable="false" data-gramm="false">Need help?</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td data-text="Description" data-font="Primary" align="left" valign="middle" class="center-text br-mobile-none" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:26px;font-weight:400;letter-spacing:0px;" contenteditable="false" data-gramm="false">For frequently-asked questions about <br>ticketing. or any assistance <a href="mailto:codewithswaroop@gmail.com" style="text-decoration:none!important;font-weight:500;border:0;color:#356bf8;"><b>contact us</b></a>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td data-resizable-height="" style="font-size:60px;height:60px;line-height:60px;">&nbsp;</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table data-group="Footers" data-module="Footer 2" data-thumbnail="thubnails/footer-2.png" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+    <tbody>
+    <tr>
+        <td data-bgcolor="Outter Bgcolor" align="center" valign="middle" bgcolor="#F1F1F1" style="background-color:#F1F1F1;">
+            <table width="600" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:600px;max-width:600px;">
+                <tbody>
+                    <tr>
+                        <td data-bgcolor="Inner Bgcolor" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+                            <table width="520" align="center" border="0" cellpadding="0" cellspacing="0" class="row" style="width:520px;max-width:520px;">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" class="container-padding">
+                                            <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="middle" style="padding:0px;padding-bottom:30px;">
+                                                            <a href="http://example.com" style="text-decoration:none;border:0px;"><img data-image="Logo Img" src="cwspwhite.png" width="120" border="0" alt="logo" style="width:120px;border:0px;display:inline-block!important;"></a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="middle" style="padding:0px;padding-bottom:20px;">
+                                                            <table data-social="sms7" cellpadding="0" cellspacing="0" align="center" style="border:0;border-collapse:collapse;border-spacing:0;">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td data-social-media="facebook" align="center" width="46"><a href="http://example.com/" style="text-decoration:none;"><img src="OIP.jpeg" alt="Social" width="30" style="-ms-interpolation-mode:bicubic;display:block;height:auto;outline:none;text-decoration:none;width:36px;">
+                                                                        </a>
+                                                                    </td>
+                                                                    <td data-social-media="instagram" align="center" width="46"><a href="http://example.com/" style="text-decoration:none;"><img src="instagram.png" alt="Social" width="30" style="-ms-interpolation-mode:bicubic;display:block;height:auto;outline:none;text-decoration:none;width:36px;"></a>
+                                                                    </td>
+                                                                    <td data-social-media="linkedin" align="center" width="46"><a href="http://example.com/" style="text-decoration:none;"><img src="linkedin.png" alt="Social" width="30" style="-ms-interpolation-mode:bicubic;display:block;height:auto;outline:none;text-decoration:none;width:36px;"></a>
+                                                                    </td>
+                                                                    <td data-social-media="twitter" align="center" width="46"><a href="http://example.com/" style="text-decoration:none;"><img src="twitter.png" alt="Social" width="30" style="-ms-interpolation-mode:bicubic;display:block;height:auto;outline:none;text-decoration:none;width:36px;"></a>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td data-text="Footer Links" data-font="Primary" align="center" valign="middle" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:26px;font-weight:600;letter-spacing:0px;padding:0px;padding-bottom:20px;" contenteditable="false" data-gramm="false"><a href="http://example.com" style="text-decoration:none!important;border:0;color:#191919;">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://example.com" style="text-decoration:none!important;border:0;color:#191919;">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://example.com" style="text-decoration:none!important;border:0;color:#191919;">Help Center</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td data-text="Footer Info" data-font="Primary" align="center" valign="middle" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:26px;font-weight:400;letter-spacing:0px;padding:0px;padding-bottom:20px;" contenteditable="false" data-gramm="false">If you have any questions please contact us swa4oopchinnu1@gmail.com.<a href="https://email.mg.sg.graphy.com/u/eJwcyT2uwyAMAODTJCMyxhi_geEdxUD4UUsTkS69faXOX4mkznnce6xektojsFUVlwMyiZRQ5XDwx7nsIyKgs4ABwHpgg1JTTig-V8_EshHMZu5m2tKrf0w-575iO6_xWOPuLyUiuxG0qeP503fc8P8bAAD__1xbJgE" style="text-decoration:underline!important;border:0;color:#191919;">Unsubscribe</a> </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" valign="middle"><table align="center" border="0" cellpadding="0" cellspacing="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.swaroop.learners&pcampaignid=web_share" style="text-decoration:none;border:0px;"><img data-image="Android Icon" src="https://editor.maool.com/images/event/btn@app-dark-android.png" alt="Icon" width="130" border="0" style="width:130px;padding: 0;padding-bottom:20px;border:0px;display:inline-block !important;"></a>
+                                                            </td>
+                                                            <td width="20">
+                                                            </td>
+                                                            <td align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.swaroop.learners&pcampaignid=web_share" style="text-decoration:none;border:0px;"><img data-image="IOS Icon" src="https://editor.maool.com/images/event/btn@app-dark-ios.png" alt="Icon" width="130" border="0" style="width:130px;padding: 0;padding-bottom:20px;display:inline-block !important;">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td data-text="Footer Links" data-font="Primary" align="center" valign="middle" style="font-family:'Poppins', sans-serif;color:#595959;font-size:16px;line-height:26px;font-weight:600;letter-spacing:0px;padding:0px;padding-bottom:20px;" contenteditable="false" data-gramm="false"><a style="text-decoration:none!important;border:0;color:#191919;">© codewithswaroop</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td data-resizable-height="" style="font-size:40px;height:40px;line-height:40px;">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
